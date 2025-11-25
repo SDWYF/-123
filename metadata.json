@@ -1,0 +1,5 @@
+{
+  "name": "Tax Hall Smart Ledger",
+  "description": "Intelligent analysis system for tax service hall monthly work ledgers using Gemini AI and data visualization.",
+  "requestFramePermissions": []
+}
